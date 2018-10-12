@@ -1,0 +1,1 @@
+The general directory for resources including images, textures and impulse sounds.
