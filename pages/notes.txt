@@ -1,0 +1,1 @@
+This directory contains all of the raw html for the site.
